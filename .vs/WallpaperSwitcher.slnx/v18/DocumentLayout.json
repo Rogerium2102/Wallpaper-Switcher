@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matth\\Documents\\Gitlab\\C#\\WallpaperSwitcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8EB27-8B22-3D9D-296E-FD9123ABEB73}|WallpaperSwitcher\\WallpaperSwitcher.csproj|c:\\users\\matth\\documents\\gitlab\\c#\\wallpaperswitcher\\wallpaperswitcher\\backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8EB27-8B22-3D9D-296E-FD9123ABEB73}|WallpaperSwitcher\\WallpaperSwitcher.csproj|solutionrelative:wallpaperswitcher\\backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8EB27-8B22-3D9D-296E-FD9123ABEB73}|WallpaperSwitcher\\WallpaperSwitcher.csproj|c:\\users\\matth\\documents\\gitlab\\c#\\wallpaperswitcher\\wallpaperswitcher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8EB27-8B22-3D9D-296E-FD9123ABEB73}|WallpaperSwitcher\\WallpaperSwitcher.csproj|solutionrelative:wallpaperswitcher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8EB27-8B22-3D9D-296E-FD9123ABEB73}|WallpaperSwitcher\\WallpaperSwitcher.csproj|c:\\users\\matth\\documents\\gitlab\\c#\\wallpaperswitcher\\wallpaperswitcher\\wallpaperengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8EB27-8B22-3D9D-296E-FD9123ABEB73}|WallpaperSwitcher\\WallpaperSwitcher.csproj|solutionrelative:wallpaperswitcher\\wallpaperengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8EB27-8B22-3D9D-296E-FD9123ABEB73}|WallpaperSwitcher\\WallpaperSwitcher.csproj|C:\\Users\\Matth\\Documents\\Gitlab\\C#\\WallpaperSwitcher\\wallpaperswitcher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49F8EB27-8B22-3D9D-296E-FD9123ABEB73}|WallpaperSwitcher\\WallpaperSwitcher.csproj|solutionrelative:wallpaperswitcher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8EB27-8B22-3D9D-296E-FD9123ABEB73}|WallpaperSwitcher\\WallpaperSwitcher.csproj|c:\\users\\matth\\documents\\gitlab\\c#\\wallpaperswitcher\\wallpaperswitcher\\dataentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8EB27-8B22-3D9D-296E-FD9123ABEB73}|WallpaperSwitcher\\WallpaperSwitcher.csproj|solutionrelative:wallpaperswitcher\\dataentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8EB27-8B22-3D9D-296E-FD9123ABEB73}|WallpaperSwitcher\\WallpaperSwitcher.csproj|c:\\users\\matth\\documents\\gitlab\\c#\\wallpaperswitcher\\wallpaperswitcher\\scheduleentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8EB27-8B22-3D9D-296E-FD9123ABEB73}|WallpaperSwitcher\\WallpaperSwitcher.csproj|solutionrelative:wallpaperswitcher\\scheduleentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8EB27-8B22-3D9D-296E-FD9123ABEB73}|WallpaperSwitcher\\WallpaperSwitcher.csproj|c:\\users\\matth\\documents\\gitlab\\c#\\wallpaperswitcher\\wallpaperswitcher\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8EB27-8B22-3D9D-296E-FD9123ABEB73}|WallpaperSwitcher\\WallpaperSwitcher.csproj|solutionrelative:wallpaperswitcher\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\C#\\WallpaperSwitcher\\WallpaperSwitcher\\Form1.cs",
+              "RelativeDocumentMoniker": "WallpaperSwitcher\\Form1.cs",
+              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\C#\\WallpaperSwitcher\\WallpaperSwitcher\\Form1.cs",
+              "RelativeToolTip": "WallpaperSwitcher\\Form1.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T14:50:17.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\C#\\WallpaperSwitcher\\WallpaperSwitcher\\Form1.cs",
+              "RelativeDocumentMoniker": "WallpaperSwitcher\\Form1.cs",
+              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\C#\\WallpaperSwitcher\\WallpaperSwitcher\\Form1.cs [Design]",
+              "RelativeToolTip": "WallpaperSwitcher\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T22:13:32.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Backend.cs",
+              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\C#\\WallpaperSwitcher\\WallpaperSwitcher\\Backend.cs",
+              "RelativeDocumentMoniker": "WallpaperSwitcher\\Backend.cs",
+              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\C#\\WallpaperSwitcher\\WallpaperSwitcher\\Backend.cs",
+              "RelativeToolTip": "WallpaperSwitcher\\Backend.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:40:02.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\C#\\WallpaperSwitcher\\WallpaperSwitcher\\DataEntry.cs",
+              "RelativeDocumentMoniker": "WallpaperSwitcher\\DataEntry.cs",
+              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\C#\\WallpaperSwitcher\\WallpaperSwitcher\\DataEntry.cs",
+              "RelativeToolTip": "WallpaperSwitcher\\DataEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T21:39:35.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScheduleEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\C#\\WallpaperSwitcher\\WallpaperSwitcher\\ScheduleEntry.cs",
+              "RelativeDocumentMoniker": "WallpaperSwitcher\\ScheduleEntry.cs",
+              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\C#\\WallpaperSwitcher\\WallpaperSwitcher\\ScheduleEntry.cs",
+              "RelativeToolTip": "WallpaperSwitcher\\ScheduleEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T19:28:20.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\C#\\WallpaperSwitcher\\WallpaperSwitcher\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WallpaperSwitcher\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\C#\\WallpaperSwitcher\\WallpaperSwitcher\\Form1.Designer.cs",
+              "RelativeToolTip": "WallpaperSwitcher\\Form1.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAgwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T15:15:09.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WallpaperEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Matth\\Documents\\Gitlab\\C#\\WallpaperSwitcher\\WallpaperSwitcher\\WallpaperEngine.cs",
+              "RelativeDocumentMoniker": "WallpaperSwitcher\\WallpaperEngine.cs",
+              "ToolTip": "C:\\Users\\Matth\\Documents\\Gitlab\\C#\\WallpaperSwitcher\\WallpaperSwitcher\\WallpaperEngine.cs",
+              "RelativeToolTip": "WallpaperSwitcher\\WallpaperEngine.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:11:41.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
